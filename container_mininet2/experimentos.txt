@@ -1,0 +1,11 @@
+Largura de banda bw=([100, 200] mbps)
+
+Atraso = (delay[1, 5]ms)
+
+Taxa de perda = (loss=[1, 5] % de perda) 
+
+Protocolo de transporte = (TCP, UDP)
+
+Quantidade de clientes = (n=[1,2]) 
+
+Executar os experimentos levando em consideração um tempo de 120 segundos entre cenários
