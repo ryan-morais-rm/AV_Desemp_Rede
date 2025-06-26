@@ -4,7 +4,7 @@ import os
 
 # Pasta com os CSVs de conexão TCP
 # Possui dados com 5ms
-csv_dir = '/home/ryan-correia/Área de trabalho/projetos/repositorios/github/AV_Desemp_Rede/container_mininet2/resultados/cliente/5ms/tcp/csv'
+csv_dir = '~/AV_Desemp_Rede/container_mininet2/resultados/cliente/5ms/tcp/csv'
 
 csv_files = [f for f in os.listdir(csv_dir) if f.endswith('.csv')]
 
