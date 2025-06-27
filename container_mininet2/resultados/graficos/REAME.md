@@ -46,4 +46,6 @@ Total de **32 cenários**. Cada experimento durou **120 segundos**.
    ```bash
    iperf -c <ip_servidor> -t 120 -i 1      # Para TCP
    iperf -c <ip_servidor> -u -t 120 -i 1   # Para UDP
-
+3. Salvamento da saída do cliente em arquivos .txt.
+4. Parser dos logs para formato .csv com script Python.
+5. Geração de gráficos com base nos dados de throughput ao longo do tempo.
