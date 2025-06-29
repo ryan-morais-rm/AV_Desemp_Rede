@@ -49,3 +49,22 @@ Total de **32 cenários**. Cada experimento durou **120 segundos**.
 3. Salvamento da saída do cliente em arquivos .txt.
 4. Parser dos logs para formato .csv com script Python.
 5. Geração de gráficos com base nos dados de throughput ao longo do tempo.
+
+## GRÁFICOS
+1. O gráfico image_notebook1.py tem informações de:
+   Clientes único, conexão TCP e 1ms. 
+2. O gráfico image_notebook2.py tem informações de:
+   Clientes único, conexão UDP e 1ms. 
+3. O gráfico image_notebook3.py tem informações de:
+   Clientes único, conexão TCP e 5ms.
+4. O gráfico image_notebook4.py tem informações de:
+   Clientes único, conexão UDP e 5ms. 
+
+5. O gráfico image_notebook1.py tem informações de:
+   Clientes dependentes, conexão TCP e 1ms. 
+6. O gráfico image_notebook2.py tem informações de:
+   Clientes dependentes, conexão UDP e 1ms. 
+7. O gráfico image_notebook3.py tem informações de:
+   Clientes dependentes, conexão TCP e 5ms.
+8. O gráfico image_notebook4.py tem informações de:
+   Clientes dependentes, conexão UDP e 5ms. 
