@@ -26,8 +26,8 @@ class NetworkTopo( Topo ):
         router = self.addNode( 'r0', cls=LinuxRouter, ip=firstIP )
         s1, s2 = [ self.addSwitch( s ) for s in ( 's1', 's2' ) ]
 
-        self.addLink( s1, router, intfName2='r0-eth1', params2={ 'ip' : firstIP }, bw=200, delay='1ms', loss=5) 
-        self.addLink( s2, router, intfName2='r0-eth2', params2={ 'ip' : secondIP }, bw=200, delay='1ms', loss=5)
+        self.addLink( s1, router, intfName2='r0-eth1', params2={ 'ip' : firstIP }, bw=200, delay='5ms', loss=5) 
+        self.addLink( s2, router, intfName2='r0-eth2', params2={ 'ip' : secondIP }, bw=200, delay='5ms', loss=5)
 
 
 def run():
