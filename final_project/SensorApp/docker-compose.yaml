@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  sensorapp:
+    image: sensorapp:v1.0
+    container_name: sensorapp
+    volumes:
+      - ./dados:/sensordados
+    networks:
+      - iotnetwork
+
+volumes:
+  sensordados:
+    external: true
+
+networks:
+  iotnetwork:
+    external: true
