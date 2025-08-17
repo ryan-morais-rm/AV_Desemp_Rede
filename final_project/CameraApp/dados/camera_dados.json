@@ -1,0 +1,70 @@
+{
+  "device_id": "CAMERA_001",
+  "timestamp": "2025-08-17T21:37:28.635928",
+  "resolution": "1280x720",
+  "avg_brightness": 89,
+  "motion_detected": true
+}
+{
+  "device_id": "CAMERA_001",
+  "timestamp": "2025-08-17T21:37:30.636454",
+  "resolution": "1280x720",
+  "avg_brightness": 29,
+  "motion_detected": false
+}
+{
+  "device_id": "CAMERA_001",
+  "timestamp": "2025-08-17T21:37:32.637261",
+  "resolution": "1280x720",
+  "avg_brightness": 49,
+  "motion_detected": false
+}
+{
+  "device_id": "CAMERA_001",
+  "timestamp": "2025-08-17T21:37:34.637867",
+  "resolution": "1280x720",
+  "avg_brightness": 179,
+  "motion_detected": false
+}
+{
+  "device_id": "CAMERA_001",
+  "timestamp": "2025-08-17T21:37:36.638366",
+  "resolution": "1280x720",
+  "avg_brightness": 135,
+  "motion_detected": false
+}
+{
+  "device_id": "CAMERA_001",
+  "timestamp": "2025-08-17T21:37:38.639010",
+  "resolution": "1280x720",
+  "avg_brightness": 26,
+  "motion_detected": true
+}
+{
+  "device_id": "CAMERA_001",
+  "timestamp": "2025-08-17T21:37:40.639735",
+  "resolution": "1280x720",
+  "avg_brightness": 172,
+  "motion_detected": true
+}
+{
+  "device_id": "CAMERA_001",
+  "timestamp": "2025-08-17T21:37:42.640343",
+  "resolution": "1280x720",
+  "avg_brightness": 252,
+  "motion_detected": false
+}
+{
+  "device_id": "CAMERA_001",
+  "timestamp": "2025-08-17T21:37:44.641034",
+  "resolution": "1280x720",
+  "avg_brightness": 33,
+  "motion_detected": false
+}
+{
+  "device_id": "CAMERA_001",
+  "timestamp": "2025-08-17T21:37:46.641739",
+  "resolution": "1280x720",
+  "avg_brightness": 53,
+  "motion_detected": true
+}

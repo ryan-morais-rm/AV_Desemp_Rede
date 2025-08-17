@@ -15,7 +15,7 @@ if __name__ == "__main__":
     try:
         while True:
             dados = simular_dados()
-            with open("/sensordados/leituras.json", "a") as f:
+            with open("dados/leituras.json", "a") as f:
                 f.write(json.dumps(dados) + "\n")
             time.sleep(5)
     except KeyboardInterrupt: 
