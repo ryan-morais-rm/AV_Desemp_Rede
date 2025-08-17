@@ -1,0 +1,1298 @@
+[
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:53:54.787569",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 69.52
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:53:55.788460",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 66.36
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:53:56.790388",
+    "proxima_mudanca": "VERDE",
+    "falha": true,
+    "bateria": 24.36
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:53:57.791618",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 78.77
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:53:58.792940",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 72.28
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:53:59.794098",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 38.36
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:00.795262",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 78.97
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:01.796240",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 90.28
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:02.796907",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 43.2
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:03.797926",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 71.29
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:04.801890",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 47.24
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:05.802884",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 85.72
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:06.804166",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 94.4
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:07.805234",
+    "proxima_mudanca": "AMARELO",
+    "falha": true,
+    "bateria": 32.19
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:54:08.806257",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 77.06
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:54:09.807599",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 31.27
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:54:10.809809",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 45.17
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:11.810825",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 38.63
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:12.812167",
+    "proxima_mudanca": "VERDE",
+    "falha": true,
+    "bateria": 52.09
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:13.813591",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 44.89
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:14.815526",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 38.19
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:15.817151",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 88.31
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:16.818263",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 38.57
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:17.819313",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 28.2
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:18.820537",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 76.41
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:19.821586",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 36.17
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:20.822728",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 85.62
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:21.823891",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 78.73
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:22.825623",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 40.47
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:23.828200",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 43.79
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:24.830090",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 60.06
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:54:25.831683",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 97.67
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:54:26.833195",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 87.42
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:54:27.834820",
+    "proxima_mudanca": "VERMELHO",
+    "falha": true,
+    "bateria": 31.84
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:28.836295",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 28.85
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:29.838009",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 26.63
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:30.839799",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 37.17
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:31.841049",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 98.98
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:32.842537",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 72.69
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:33.843862",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 71.11
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:34.845802",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 32.55
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:35.847524",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 59.77
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:36.849666",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 79.74
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:37.851420",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 75.66
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:38.852637",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 25.73
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:39.854534",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 69.25
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:40.856394",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 86.99
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:41.857776",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 44.34
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:54:42.859665",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 49.11
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:54:43.860923",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 32.62
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:54:44.862708",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 96.02
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:45.864618",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 58.26
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:46.867601",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 90.41
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:47.869282",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 46.35
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:48.872171",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 97.86
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:49.874739",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 71.43
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:50.876888",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 85.41
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:54:51.878177",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 75.59
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:52.880620",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 63.31
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:53.883173",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 22.95
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:54.885187",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 52.49
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:55.886569",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 34.77
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:56.887977",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 73.98
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:57.889494",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 59.06
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:54:58.891468",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 95.93
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:54:59.893855",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 34.63
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:55:00.895426",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 66.23
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:55:01.897522",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 72.75
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:02.899653",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 51.66
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:03.901517",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 71.08
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:04.903419",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 27.34
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:05.905948",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 51.39
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:06.907989",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 74.03
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:07.909739",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 76.91
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:08.912020",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 71.28
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:09.914379",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 68.39
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:10.916687",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 32.06
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:11.918569",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 78.09
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:12.920859",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 32.56
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:13.923740",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 60.01
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:14.925624",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 81.52
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:15.927608",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 71.67
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:55:16.929331",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 32.97
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:55:17.932014",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 65.23
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:55:18.934240",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 42.61
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:19.936485",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 30.08
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:20.939266",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 65.82
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:21.941926",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 48.85
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:22.943745",
+    "proxima_mudanca": "VERDE",
+    "falha": true,
+    "bateria": 25.11
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:23.945433",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 54.0
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:24.948184",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 90.68
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:25.950735",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 80.43
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:26.953179",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 97.23
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:27.956682",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 71.75
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:28.959061",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 85.74
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:29.961282",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 39.5
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:30.964640",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 70.96
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:31.967149",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 50.96
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:32.970079",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 22.92
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:55:33.972764",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 67.17
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:55:34.976584",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 79.42
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:55:35.980462",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 35.49
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:36.983955",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 65.2
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:37.986535",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 58.08
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:38.989176",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 58.43
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:39.991094",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 90.32
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:40.993354",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 48.52
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:41.995268",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 47.42
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:42.997907",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 31.51
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:44.000849",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 76.02
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:45.002934",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 58.58
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:46.005408",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 86.3
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:47.007598",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 44.39
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:48.011180",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 46.44
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:49.013603",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 91.65
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:55:50.015076",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 30.45
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:55:51.017476",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 29.56
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:55:52.020725",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 40.31
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:55:53.023281",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 87.24
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:54.025408",
+    "proxima_mudanca": "VERDE",
+    "falha": true,
+    "bateria": 86.78
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:55.028294",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 32.84
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:56.031125",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 23.2
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:57.033175",
+    "proxima_mudanca": "VERDE",
+    "falha": true,
+    "bateria": 94.21
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:58.037006",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 23.15
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:55:59.038629",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 81.59
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:00.041013",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 88.91
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:01.043360",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 20.19
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:02.047020",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 82.56
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:03.048643",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 53.48
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:04.051374",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 56.97
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:05.053768",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 56.6
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:06.057605",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 46.11
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:07.060389",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 33.7
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:56:08.062841",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 90.96
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:56:09.065159",
+    "proxima_mudanca": "VERMELHO",
+    "falha": true,
+    "bateria": 40.97
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:56:10.068407",
+    "proxima_mudanca": "VERMELHO",
+    "falha": true,
+    "bateria": 86.92
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:11.072491",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 53.69
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:12.075720",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 99.67
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:13.079383",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 38.19
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:14.083372",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 66.01
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:15.087600",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 37.48
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:16.092388",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 68.68
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:17.095379",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 85.57
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:18.098220",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 96.83
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:19.102845",
+    "proxima_mudanca": "AMARELO",
+    "falha": true,
+    "bateria": 71.56
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:20.107468",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 64.98
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:21.111149",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 23.4
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:22.114097",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 52.98
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:23.117933",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 24.11
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:24.120540",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 49.76
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:56:25.123699",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 41.58
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:56:26.126415",
+    "proxima_mudanca": "VERMELHO",
+    "falha": true,
+    "bateria": 77.08
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "AMARELO",
+    "timestamp": "2025-08-17T17:56:27.129229",
+    "proxima_mudanca": "VERMELHO",
+    "falha": false,
+    "bateria": 59.94
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:28.132873",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 92.8
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:29.136795",
+    "proxima_mudanca": "VERDE",
+    "falha": true,
+    "bateria": 89.15
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:30.140878",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 30.38
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:31.144260",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 92.75
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:32.147516",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 48.91
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:33.150933",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 42.61
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERMELHO",
+    "timestamp": "2025-08-17T17:56:34.155840",
+    "proxima_mudanca": "VERDE",
+    "falha": false,
+    "bateria": 42.66
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:35.159461",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 47.52
+  },
+  {
+    "device_id": "SEMAFORO_001",
+    "estado": "VERDE",
+    "timestamp": "2025-08-17T17:56:36.162281",
+    "proxima_mudanca": "AMARELO",
+    "falha": false,
+    "bateria": 83.92
+  }
+]

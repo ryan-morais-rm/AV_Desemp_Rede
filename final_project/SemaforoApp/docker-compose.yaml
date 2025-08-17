@@ -1,0 +1,18 @@
+services:
+  semaforoapp:
+    image: semaforoapp:v1.0
+    container_name: semaforoapp 
+    volumes:
+      - ./dados:/semaforodados
+    networks:
+      - iotnetwork
+    ports:
+      - "8080:8080"  # Para futura expansão com API
+
+volumes:
+  semaforodados:
+    external: true
+
+networks:
+  iotnetwork:
+    external: true 
